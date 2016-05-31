@@ -15,4 +15,17 @@ Notes for the first edition of OpenJournal META
 - https://confluence.cornell.edu/download/attachments/127116484/arXiv+Business+Model.pdf
 - http://arxiv.org/pdf/1309.4008v1.pdf
 - https://github.com/SeerLabs/CiteSeerX/blob/master/doc/cxm.pdf
-- http://onerepo.net/onerepo-whitepaper.pdf (Mike Taylor, OneRepo)
+
+### Understanding Open Access
+
+"Open Access" by Peter Suber
+https://mitpress.mit.edu/sites/default/files/9780262517638_Open_Access_PDF_Version.pdf
+
+### The Plague of PDFs
+
+Towards Reverse Engineering of PDF Documents
+http://www.fi.muni.cz/~sojka/dml-2011-baker-sexton-sorge.pdf
+
+### A Universal Open-Access Repository
+
+http://onerepo.net/onerepo-whitepaper.pdf (Mike Taylor, OneRepo)
