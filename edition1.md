@@ -14,7 +14,7 @@ Notes for the first edition of OpenJournal META
 - https://clgiles.ist.psu.edu/papers/JCDL2008-metadata-generation.pdf
 - https://confluence.cornell.edu/download/attachments/127116484/arXiv+Business+Model.pdf
 - http://arxiv.org/pdf/1309.4008v1.pdf
-- https://github.com/SeerLabs/CiteSeerX/blob/master/doc/cxm.pdf
+
 
 ### Understanding Open Access
 
@@ -28,4 +28,8 @@ http://www.fi.muni.cz/~sojka/dml-2011-baker-sexton-sorge.pdf
 
 ### A Universal Open-Access Repository
 
-http://onerepo.net/onerepo-whitepaper.pdf (Mike Taylor, OneRepo)
+[OneRepo (Mike Taylor)](http://onerepo.net/onerepo-whitepaper.pdf)
+
+### Technical Guides for Activists
+
+[How to use CiteSeerX](https://github.com/SeerLabs/CiteSeerX/blob/master/doc/cxm.pdf)
