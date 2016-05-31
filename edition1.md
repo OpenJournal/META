@@ -19,7 +19,7 @@ Notes for the first edition of OpenJournal META
 ### Understanding Open Access
 
 "Open Access" by Peter Suber
-https://mitpress.mit.edu/sites/default/files/9780262517638_Open_Access_PDF_Version.pdf
+https://mitpress.mit.edu/sites/default/files/titles/content/openaccess/Suber_05_toc.html
 
 ### The Plague of PDFs
 
