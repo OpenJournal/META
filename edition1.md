@@ -13,8 +13,14 @@ Notes for the first edition of OpenJournal META
 - https://lockss.org/locksswp/wp-content/uploads/2013/12/ArchitecturalChoices.pdf
 - https://clgiles.ist.psu.edu/papers/JCDL2008-metadata-generation.pdf
 - https://confluence.cornell.edu/download/attachments/127116484/arXiv+Business+Model.pdf
-- http://arxiv.org/pdf/1309.4008v1.pdf
 
+### Logistics of Taking Action
+
+[Cornell University Library ArXiv Financial Projections for 2013-2017](https://confluence.cornell.edu/download/attachments/127116484/arXiv+Business+Model.pdf)
+
+### Reproducibility
+
+[What does research reproducibility mean?](http://stm.sciencemag.org/content/8/341/341ps12.full)
 
 ### Understanding Open Access
 
